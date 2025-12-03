@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79510a26bc2df1e4da33094e0692e6d4, type: 3}
+  m_Name: EnemySoldier
+  m_EditorClassIdentifier: 
+  MaxHP: 25
+  Damage: 15
+  RangeRes: 0
+  MeleeRes: 0
+  AttackInterval: 1
+  PhysicMaterial: {fileID: 13400000, guid: 74154899f3f7de44398565c3e92ec8cc, type: 2}
+  VisualMatarial: {fileID: 2100000, guid: 64e51c60b9b27e5458767bec323a3702, type: 2}
+  mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
